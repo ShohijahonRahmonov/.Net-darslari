@@ -1,2 +1,2 @@
 # .Net-darslari
-bu erda siz matematikaga oid kodlar bor
+bu erda sizga kerakli  matematikaga oid kodlar bor
