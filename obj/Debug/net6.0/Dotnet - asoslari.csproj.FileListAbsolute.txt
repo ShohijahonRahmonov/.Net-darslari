@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\bin\Debug\net6.0\Dotnet - asoslari.exe
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\bin\Debug\net6.0\Dotnet - asoslari.deps.json
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\bin\Debug\net6.0\Dotnet - asoslari.runtimeconfig.json
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\bin\Debug\net6.0\Dotnet - asoslari.dll
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\bin\Debug\net6.0\Dotnet - asoslari.pdb
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.AssemblyInfo.cs
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.dll
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\refint\Dotnet - asoslari.dll
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.pdb
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\Dotnet - asoslari.genruntimeconfig.cache
+C:\Users\Owner\Documents\GitHub\Dotnet - asoslari\obj\Debug\net6.0\ref\Dotnet - asoslari.dll
