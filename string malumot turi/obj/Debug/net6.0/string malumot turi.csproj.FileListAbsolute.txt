@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\string malumot turi\bin\Debug\net6.0\string malumot turi.exe
+C:\Users\Owner\Desktop\string malumot turi\bin\Debug\net6.0\string malumot turi.deps.json
+C:\Users\Owner\Desktop\string malumot turi\bin\Debug\net6.0\string malumot turi.runtimeconfig.json
+C:\Users\Owner\Desktop\string malumot turi\bin\Debug\net6.0\string malumot turi.dll
+C:\Users\Owner\Desktop\string malumot turi\bin\Debug\net6.0\string malumot turi.pdb
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.AssemblyInfo.cs
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.dll
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\refint\string malumot turi.dll
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.pdb
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\string malumot turi.genruntimeconfig.cache
+C:\Users\Owner\Desktop\string malumot turi\obj\Debug\net6.0\ref\string malumot turi.dll
