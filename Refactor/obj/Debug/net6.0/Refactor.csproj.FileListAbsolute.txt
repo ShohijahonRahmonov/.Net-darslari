@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Refactor\bin\Debug\net6.0\Refactor.exe
+C:\Users\Owner\Desktop\Refactor\bin\Debug\net6.0\Refactor.deps.json
+C:\Users\Owner\Desktop\Refactor\bin\Debug\net6.0\Refactor.runtimeconfig.json
+C:\Users\Owner\Desktop\Refactor\bin\Debug\net6.0\Refactor.dll
+C:\Users\Owner\Desktop\Refactor\bin\Debug\net6.0\Refactor.pdb
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.dll
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\refint\Refactor.dll
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.pdb
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\Refactor.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Refactor\obj\Debug\net6.0\ref\Refactor.dll
