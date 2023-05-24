@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\bin\Debug\net6.0\Methodlar bilan ishlash.exe
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\bin\Debug\net6.0\Methodlar bilan ishlash.deps.json
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\bin\Debug\net6.0\Methodlar bilan ishlash.runtimeconfig.json
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\bin\Debug\net6.0\Methodlar bilan ishlash.dll
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\bin\Debug\net6.0\Methodlar bilan ishlash.pdb
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.dll
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\refint\Methodlar bilan ishlash.dll
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.pdb
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\Methodlar bilan ishlash.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Methodlar bilan ishlash\obj\Debug\net6.0\ref\Methodlar bilan ishlash.dll

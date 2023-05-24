@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Methodlar bilan ishlash/1.0.0": {
+        "runtime": {
+          "Methodlar bilan ishlash.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methodlar bilan ishlash/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
